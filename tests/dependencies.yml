@@ -1,0 +1,7 @@
+# ---
+# # Uncomment to install dependencies
+# - hosts: localhost
+#   connection: local
+#   remote_user: root
+#   roles:
+#     - role: geerlingguy.java
